@@ -1,1 +1,1 @@
-print('пенис')
+print('hello world')
